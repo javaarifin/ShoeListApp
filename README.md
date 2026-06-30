@@ -1,5 +1,8 @@
 # ShoeListApp 
 
+### NAMA  : Muhammad Java Arifin
+### NIM   : 235410073
+
 ShoeListApp adalah aplikasi katalog sepatu modern berbasis Android yang dikembangkan menggunakan **Kotlin** dan **Jetpack Compose**. Aplikasi ini dibuat untuk memenuhi projek akhir semester dengan mengimplementasikan berbagai arsitektur dan teknologi Android modern.
 
 ## Fitur & Kriteria yang Terpenuhi
